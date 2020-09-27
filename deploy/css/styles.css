@@ -426,3 +426,20 @@ textarea {
 /* =============
     Homework
 ============= */
+#heart-page {
+  height: 100vh;
+  width: 100vw;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#heart-page > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#heart-page > div svg {
+  padding: 20px;
+  height: 30vh;
+}

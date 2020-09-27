@@ -1,1 +1,1 @@
-import*as Demo from"./demo.js";console.log(Demo);
+!function(){"use strict";var e=Object.freeze({__proto__:null});console.log(e)}();

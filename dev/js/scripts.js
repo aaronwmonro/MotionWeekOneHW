@@ -1,3 +1,3 @@
-import * as Demo from './demo.js';
+import * as Homework from './homework.js';
 
-// console.log(Demo);
+console.log(Homework);
