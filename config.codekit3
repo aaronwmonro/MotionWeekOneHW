@@ -49,6 +49,14 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/deploy/img/Untitled-2.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/deploy/img/Untitled-2.ai",
+		"oF": 0
+		},
 	"/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -100,14 +108,14 @@
 		"oAP": "/deploy/index.html",
 		"oF": 2
 		},
-	"/dev/js/homework.js": {
+	"/dev/js/redBox.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/dev/js/homework-min.js",
-		"oF": 0,
+		"oAP": "/dev/js/redBox-min.js",
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
@@ -119,6 +127,28 @@
 		"oA": 0,
 		"oAP": "/deploy/js/scripts-min.js",
 		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/tealBox.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/dev/js/tealBox-min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/yellowBox.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/dev/js/yellowBox-min.js",
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
